@@ -1,0 +1,11 @@
+mytheme-style:
+  css:
+    theme:
+      css/bootstrap.min.css: {}
+      css/style.css: {}
+  js:
+    js/bootstrap.min.js: {}
+    js/jquery-3.3.1.slim.min.js: {}
+    js/popper.min.js: {}
+  dependencies:
+    - core/jquery

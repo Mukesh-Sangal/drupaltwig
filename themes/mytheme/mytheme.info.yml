@@ -1,0 +1,14 @@
+name: mytheme
+type: theme
+description: 'Know how to create drupal 8 custom theme with twig'
+pacakge: Custom
+core: 8.x
+
+libraries:
+  - mytheme/mytheme-style
+regions:
+  header: Header
+  navigation: Navigation
+  left_sidebar: Left Sidebar
+  main_content: Content
+  footer: Footer
